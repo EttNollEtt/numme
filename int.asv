@@ -1,6 +1,0 @@
-function trapets = f(funk, h)
-funk(1) = (funk(1)/2)
-funk(end) = (funk(1)/2)
-
-for k=1:length(funk)
-    
